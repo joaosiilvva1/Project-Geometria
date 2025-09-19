@@ -19,7 +19,7 @@ Project-Geometria-main/
 
 ---
 
-## 📖 Funcionalidades
+ 📖 Funcionalidades
 
 * Menu interativo para escolher a figura geométrica.
 * Cálculo de **área** e **perímetro** de:
@@ -31,7 +31,7 @@ Project-Geometria-main/
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+ 🛠️ Tecnologias Utilizadas
 
 * **Java 8+**
 * Paradigma de **Programação Orientada a Objetos (POO)**
@@ -39,7 +39,7 @@ Project-Geometria-main/
 
 ---
 
-## 🖥️ Exemplo de uso
+ 🖥️ Exemplo de uso
 
 Ao executar o programa, o usuário verá um menu parecido com este:
 
