@@ -4,7 +4,7 @@ Este projeto foi desenvolvido em **Java** e tem como objetivo praticar conceitos
 
 ---
 
-## 📂 Estrutura do Projeto
+ 📂 Estrutura do Projeto
 
 ```
 Project-Geometria-main/
